@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Povinné Čítanie</string>
+    <string name="acces_rights">AccesRights</string>
+    <string name="shared_pref">LocalDB</string>
+</resources>

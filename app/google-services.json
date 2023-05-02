@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336270615582",
+    "firebase_url": "https://povinnecitanie-a19a3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "povinnecitanie-a19a3",
+    "storage_bucket": "povinnecitanie-a19a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336270615582:android:fb458c64246619dd937a0f",
+        "android_client_info": {
+          "package_name": "com.lmoder.povinnecitanie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336270615582-bs2rcdhmhu3ffbqrafimf6polcjimngg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15wTGqH5URpYpu0agObtvMIMnU3O2s5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336270615582-bs2rcdhmhu3ffbqrafimf6polcjimngg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
